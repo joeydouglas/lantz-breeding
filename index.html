@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lantz - Breeding Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌿 Lantz</h1>
+            <p class="subtitle">F1 Breeding Population Tracker</p>
+            <p class="subtitle">Last updated: August 25, 2026 at 02:08 PM</p>
+        </header>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">1</div>
+                <div class="stat-label">Total Plants</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number top-keeper">0</div>
+                <div class="stat-label">Top Keepers</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number keeper">0</div>
+                <div class="stat-label">Keepers</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number culled">1</div>
+                <div class="stat-label">Culled</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Photos</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0.0%</div>
+                <div class="stat-label">Selection Rate</div>
+            </div>
+        </div>
+        
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterPlants('all')">All Plants</button>
+            <button class="filter-btn" onclick="filterPlants('top_keeper')">💚💚 Top Keepers</button>
+            <button class="filter-btn" onclick="filterPlants('keeper')">💚 Keepers</button>
+            <button class="filter-btn" onclick="filterPlants('culled')">☠️ Culled</button>
+        </div>
+        
+        <div class="grid" id="plantGrid">
+
+            <a href="plants/Ltz01.html" class="plant-card culled" data-status="culled">
+                <div class="plant-image"></div>
+                <div class="plant-info">
+                    <div class="plant-id">Ltz01 ☠️</div>
+                    <span class="status-badge culled">Culled</span>
+                    <div class="plant-details">
+                        No details recorded
+                    </div>
+                    
+                </div>
+            </a>
+
+        </div>
+        
+        <footer>
+            <div class="links">
+                <a href="https://docs.google.com/document/d/1-GzavsUYSFmf9IieZFFO5IXQl6UN5eEdW9zFNhGEwII/edit" target="_blank">📊 Google Sheet</a>
+                <a href="https://drive.google.com/drive/folders/1GCQONMipko1ixQLNylGndpY-CCKp-fEN" target="_blank">📁 Drive Folder</a>
+                <a href="https://drive.google.com/drive/folders/1RPIl_5F2_1oZHtQg5S42iNgkb8I6idgi" target="_blank">📸 Photos</a>
+                <a href="https://drive.google.com/drive/folders/1BsUlJ-gd-GmV1mhWOhojrScZjGsMT4gb" target="_blank">📝 Notes</a>
+            </div>
+            <p style="margin-top: 20px;">
+                Automated breeding tracker powered by Claude<br>
+                Cross: Lantz | Generation: F1 | Population: 1 plants | Photos: 0
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        function filterPlants(status) {
+            const cards = document.querySelectorAll('.plant-card');
+            const buttons = document.querySelectorAll('.filter-btn');
+            
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            cards.forEach(card => {
+                if (status === 'all' || card.dataset.status === status) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+# Discord breeding-channel ingestion
+
+/photos
+*.tar.gz
+test.html
+var/
+real-channel.json
+__pycache__/
+*.py[cod]
