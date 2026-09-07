@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: 8
+vigor: '8'
 structure: null
 terpene_notes: null
 issues: null
