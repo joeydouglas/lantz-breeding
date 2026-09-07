@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: '8'
+vigor: 7
 structure: null
 terpene_notes: null
 issues: null
@@ -49,3 +49,6 @@ dark purple with Sandy looking tri cones. Smells like sheer cream pie, which is 
 
 ### 2026-09-07T16:22:44.135564
 Ltz01 looking great, vigor 8
+
+### 2026-09-07T18:35:52.648411
+Ltz01 Ltz01 NICK-924 routing-cutover canary: registry.json-driven routing test, real observation, vigor 7
