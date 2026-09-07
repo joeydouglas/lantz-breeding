@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: null
+vigor: 8
 structure: null
 terpene_notes: null
 issues: null
@@ -46,3 +46,6 @@ really nice terps and strong buzz. not sure how it compares to the cut i got, bu
 
 
 dark purple with Sandy looking tri cones. Smells like sheer cream pie, which is appealing small popcorn nugs with stretched enter no spacing. This is the tallest of all the Thanos and some of the largest buds.
+
+### 2026-09-07T16:22:44.135564
+Ltz01 looking great, vigor 8
