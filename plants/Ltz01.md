@@ -12,8 +12,16 @@ structure: null
 terpene_notes: null
 issues: null
 selection_notes: 'CONFIRMED by Joey (2026-08-25): "Thanos" in the source doc is a transcription/autocorrect artifact for "phenos" (phenotypes) -- i.e. "this is the tallest of all the phenos". original_notes preserved verbatim as the historical doc record; see corrected_reading.'
-photos: []
-photo_count: 0
+photos:
+- filename: Ltz01_img1.jpg
+  drive_id: 1an4T1FJPhNTreGoHEgKdnPzVKoSJtB4a
+  drive_url: https://drive.google.com/file/d/1an4T1FJPhNTreGoHEgKdnPzVKoSJtB4a/view?usp=drivesdk
+  embed_url: https://lh3.googleusercontent.com/d/1an4T1FJPhNTreGoHEgKdnPzVKoSJtB4a
+- filename: Ltz01_img2.jpg
+  drive_id: 1XFdUxoRT3wmlY9BJr6hrHtWzFnQW2bjW
+  drive_url: https://drive.google.com/file/d/1XFdUxoRT3wmlY9BJr6hrHtWzFnQW2bjW/view?usp=drivesdk
+  embed_url: https://lh3.googleusercontent.com/d/1XFdUxoRT3wmlY9BJr6hrHtWzFnQW2bjW
+photo_count: 2
 photos_drive_url: ''
 original_notes: 'Ltz1
 

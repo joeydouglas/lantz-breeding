@@ -12,8 +12,16 @@ structure: null
 terpene_notes: null
 issues: null
 selection_notes: null
-photos: []
-photo_count: 0
+photos:
+- filename: Ltz03_img1.jpg
+  drive_id: 1j2dATzM0mPwR5dD_-M_6EDAVAGQygIak
+  drive_url: https://drive.google.com/file/d/1j2dATzM0mPwR5dD_-M_6EDAVAGQygIak/view?usp=drivesdk
+  embed_url: https://lh3.googleusercontent.com/d/1j2dATzM0mPwR5dD_-M_6EDAVAGQygIak
+- filename: Ltz03_img2.jpg
+  drive_id: 1oDKZ2uCBhBt2DxC9jW7oYPGXgYBzEhff
+  drive_url: https://drive.google.com/file/d/1oDKZ2uCBhBt2DxC9jW7oYPGXgYBzEhff/view?usp=drivesdk
+  embed_url: https://lh3.googleusercontent.com/d/1oDKZ2uCBhBt2DxC9jW7oYPGXgYBzEhff
+photo_count: 2
 photos_drive_url: ''
 original_notes: 'Ltz3
 
