@@ -1,5 +1,5 @@
 ---
-plant_id: Ltz03
+plant_id: LTZ03
 cross: Lantz
 status: culled
 sex: null
@@ -47,3 +47,4 @@ this Dino is a little more purple than number one with a very muted smell, which
 
 ### 2026-09-07T16:38:29.375364
 Ltz03 recovering nicely, vigor 6, some yellowing on lower leaves
+

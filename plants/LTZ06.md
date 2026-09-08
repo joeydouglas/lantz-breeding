@@ -1,5 +1,5 @@
 ---
-plant_id: Ltz06
+plant_id: LTZ06
 cross: Lantz
 status: culled
 sex: null

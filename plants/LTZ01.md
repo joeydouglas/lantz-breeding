@@ -1,5 +1,5 @@
 ---
-plant_id: Ltz01
+plant_id: LTZ01
 cross: Lantz
 status: culled
 sex: null
@@ -7,7 +7,7 @@ germ_date: null
 veg_start: null
 flower_flip: null
 harvest_date: null
-vigor: 7
+vigor: '7'
 structure: null
 terpene_notes: null
 issues: null

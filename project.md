@@ -3,7 +3,7 @@ cross_name: Lantz
 genetics: null
 breeder_lineage: null
 plant_id_prefixes:
-- prefix: Ltz
+- prefix: LTZ
   pattern: \bLtz[\s\-]?(\d{1,2})\b
 auto_create: false
 github_repo: joeydouglas/lantz-breeding
@@ -33,8 +33,8 @@ notes_meta:
 created: '2026-08-25T00:00:00'
 last_updated: '2026-08-25T00:00:00'
 plant_order:
-- Ltz01
-- Ltz03
-- Ltz06
-- Ltz07
+- LTZ01
+- LTZ03
+- LTZ06
+- LTZ07
 ---
