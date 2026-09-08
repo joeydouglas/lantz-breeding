@@ -1,5 +1,5 @@
 ---
-plant_id: LTZ07
+id: null
 cross: Lantz
 status: culled
 sex: null
@@ -34,6 +34,7 @@ original_notes: 'Ltz7:
 
   this Vino is exactly like number three with maybe a touch more smell but not very much number one and number six are both more visually appealing and both smell better'
 corrected_reading: null
+plant_id: LTZ07
 ---
 
 ### Original Notes from Google Doc (tab: LTZ7💚)

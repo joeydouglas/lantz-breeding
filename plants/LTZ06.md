@@ -1,5 +1,5 @@
 ---
-plant_id: LTZ06
+id: null
 cross: Lantz
 status: culled
 sex: null
@@ -31,6 +31,7 @@ original_notes: 'Ltz6
 
   this Fino is not as dark as the rest. It’s about 50% purple 50% green, the turps lean more floral than sweet, which is oddly appealing. The buds are on the larger side and it is the shortest female of all five.'
 corrected_reading: null
+plant_id: LTZ06
 ---
 
 ### Original Notes from Google Doc (tab: LTZ6☠️)

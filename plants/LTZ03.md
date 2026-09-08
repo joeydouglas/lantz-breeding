@@ -1,5 +1,5 @@
 ---
-plant_id: LTZ03
+id: null
 cross: Lantz
 status: culled
 sex: null
@@ -34,6 +34,7 @@ original_notes: 'Ltz3
 
   this Dino is a little more purple than number one with a very muted smell, which is not very appealing. The buds are also smaller than number one very high stretch slightly smaller bugs than number one.'
 corrected_reading: null
+plant_id: LTZ03
 ---
 
 ### Original Notes from Google Doc (tab: LTZ3☠️)

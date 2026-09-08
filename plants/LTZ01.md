@@ -1,5 +1,5 @@
 ---
-plant_id: LTZ01
+id: null
 cross: Lantz
 status: culled
 sex: null
@@ -35,6 +35,7 @@ original_notes: 'Ltz1
 
   dark purple with Sandy looking tri cones. Smells like sheer cream pie, which is appealing small popcorn nugs with stretched enter no spacing. This is the tallest of all the Thanos and some of the largest buds.'
 corrected_reading: '''Thanos'' -> ''phenos'' (phenotypes). Confirmed by Joey 2026-08-25.'
+plant_id: LTZ01
 ---
 
 ### Original Notes from Google Doc (tab: LTZ1☠️)
